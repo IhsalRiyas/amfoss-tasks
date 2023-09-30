@@ -1,0 +1,60 @@
+
+body {
+    background-image: url(Pics/backdrop.png);
+    
+}
+.topper {
+    background-color:  rgba(0, 0, 0, 0.5);
+    display: flex;
+
+    width:100%;
+}
+.minion {
+    margin-left: 10px;
+
+}
+.youtoo{
+    margin-left: 88%;
+    padding: 15px;
+}    
+
+.name{
+    margin-top: 20%;
+
+}
+.thunder{
+    text-align: center;
+    font-size: 55px;
+    font-style: italic;
+    color: white;
+}
+.thething{
+    text-align: center;
+    width: 200px;
+    height: auto;
+    margin-left: 35%;
+
+}
+.weare{
+    background-color: white;
+    
+    
+}
+
+    
+
+#hit{
+    width: 20%;
+    height: 10%;
+    align-content: center;
+    position: absolute;
+    bottom: 60px; /* Adjust the distance from the bottom as needed */
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    width: 20%;
+    background-color: aqua;
+    color: #1e1e1e ;
+    font-style:italic;
+    font-size: xx-large;
+}

@@ -1,0 +1,62 @@
+body {
+    background-color:#0d1234;
+    margin: 0;
+    padding: 0;
+    color: white; /* no, i'm not racist. you just can't see it if its black okay? I'm not helping, am I ? */
+}
+
+
+.topper {
+    background-color: rgba(0, 0, 0, 0.5); /* copy paste. never realised how helpful cnrl v was before. */
+    display: flex;
+    align-items: center; 
+    justify-content: space-between; 
+    padding: 10px; 
+}
+
+.minion {
+    margin-left: 10px;
+}
+
+.youtoo {
+    margin-right: 10px; 
+    display: flex;
+    align-items: center;
+}
+
+
+.boxes {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 4 columns in the grid, ngl I had to chatgpt to find this function */
+    grid-gap: 20px;
+    padding: 20px; /* Padding. no, I will not explain what this does */
+    margin: 0 auto;
+    max-width: 1200px; /* why 1200px? idk. when I had an error in the code, chatgpt made it 1200 px and it seemed to work.*/
+    
+}
+
+.items {
+    text-align: center; /* cause text loves to be the center of attention */
+    background-color: rgba(0, 0, 0, 0.5);
+    border-bottom: 20 px rgb(208, 99, 21);
+    border-bottom: 20px solid rgb(51, 69, 171);
+    border-radius: 5%;
+}
+
+.items img {
+    width: 50%;
+    max-width: 100px;
+    height: auto;
+    
+}
+.items img.poster{
+    width: 150px;
+    height: auto 
+}
+
+
+
+
+
+
+  
