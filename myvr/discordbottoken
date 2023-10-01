@@ -1,0 +1,4 @@
+import discord
+import scrapper
+import scraper
+import dotenv
