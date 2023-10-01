@@ -1,40 +1,5 @@
-yay, Torture. so, this contains a json file, html as well as javascript. wasn't hard at all. definetly didn't make be have a mental breakdown beacuse I missed two underscores.
-and before someone asks, the reason one of the images is called 162 rather than 16 was because it was my second attempt at trying to upload the file. I think there was a ratio issue or the file was jpeg,
+this contains a json file, html as well as javascript .had a hard time in the beginning but it was more resonable than the discord bot task. 
+he reason one of the images is called 162 rather than 16 was because it was my second attempt at trying to upload the file. I think there was a ratio issue or the file was jpeg,
 I forget. anyways, that's why it's like that essentially.
 
-is there something I'm missing? oh yeah, the Kelvin Thing! so essentially if you try to use my extension, it will show you the temperature in Kelvin. while most people might see this as an error from my part,
-it is actually an intended function. think of it. Scientist use kelvin in labs. scientist are smart people. so people who use kelvin are smart as well. ie, cse people are very smart. A true programmer would 
-instantly convert the Kelvin to Celcius by subracting 273.15. it helps keep the mind sharp. you see? Kelvin truly is the best scale out there!
-
-also, technically speaking, they never mentioned the temperature scale. Kalashnikov just needed to know the temperaure. AK-47℃ might just be the latest update of ak's. that's how I assume it works anyways.
-besides that, nothing much. ah almost forgot-
-                                          
-                                          ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-                                          ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-                                          ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⡤⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-                                          ⠀⠀⠀⢀⣠⣤⣤⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⡄⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢻⣛⣛⠟⣛⠻⣿⣿⣿⣿⣿⣿⣿⣿⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-                                          ⠀⠀⢠⣿⠟⠛⠛⢻⣿⠀⠀⠀⣤⣤⡄⠀⠀⠀⣤⣤⡄⠀⠀⠀⣤⣤⠀⣿⡇⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⣿⣿⣿⣿⣿⢾⢸⡜⡟⡟⣷⢾⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⢠⣶⣿⣿⣷⣦⠀⠀⠀⠀⠀⠀⣷⡆⠀⠀⠀⠀⠀⠀⢠⣾⡿⠇⠀⠀⠀⠀⠀
-                                          ⠀⠀⢸⣿⠀⠀⣤⣤⣤⡄⢰⣿⠋⠙⢿⣆⢀⣾⠟⠉⢻⣷⠀⣼⡟⠉⠹⣿⡇⠀⠀⠀⠸⣿⣿⣿⣿⣿⣿⣿⣿⠋⠐⠅⠀⢤⣌⢿⣿⣿⣸⢻⢰⡇⡗⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⢠⣿⠏⠀⠀⠙⠛⠂⠀⣤⣠⣶⠀⣤⡆⠀⣠⣶⣦⣄⠀⣼⣿⣤⡄⠀⠀⠀⠀⠀
-                                          ⠀⠀⠸⣿⣄⡀⢀⣨⣿⡇⢸⣷⠀⠀⣸⡿⠘⣿⡄⠀⢠⣿⠃⢿⣇⠀⢀⣿⡇⠀⠀⠀⠀⢹⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⡇⠠⢹⡷⣿⡿⡍⣿⣞⣟⠷⡧⣿⣿⣿⣿⣿⣿⣿⣿⣿⠶⠁⠀⠀⠀⢸⣿⡀⠀⠿⠿⣿⡇⠘⣿⡏⠈⠀⣿⡃⢸⣿⣤⣬⣿⡆⢸⣿⠀⠀⠀⠀⠀⠀⠀
-                                          ⠀⠀⠀⠈⠛⠛⠛⠛⠉⠀⠀⠙⠛⠛⠋⠀⠀⠈⠛⠛⠛⠁⠀⠈⠛⠛⠋⠛⠃⠀⠀⠀⢀⣀⠿⢿⣿⣿⣿⣿⣿⡈⠒⢊⠠⠁⢼⡿⣽⣟⡧⠉⢾⠡⢎⣗⣿⢿⡟⣿⣿⣿⣿⣿⡷⠂⠀⠀⠀⠀⠀⠻⣷⣤⣤⣴⡿⠇⢈⣿⡅⠀⠀⣿⡇⠸⣿⣄⣰⡶⠂⢸⣿⠀⠀⠀⠀⠀⠀⠀
-                                          ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠽⣷⣄⣉⠙⠛⠿⢿⠷⣀⣂⣤⣵⡿⠹⡿⠧⠇⠛⠚⣉⣉⣡⣴⣾⣷⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠁⠀⠀⠀⠉⠁⠀⠀⠉⠁⠀⠀⠉⠉⠀⠀⠈⠉⠀⠀⠀⠀⠀⠀⠀
-                                          ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣯⡿⣿⣷⣶⣾⣴⣤⣴⣦⣶⣶⣶⣷⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-                                          ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠤⠀⠒⠰⠔⠂⢐⠛⠛⣿⣿⣽⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿⣛⡽⣿⠋⣄⢿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-                                          ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠾⡣⠀⣀⣤⣔⡒⠶⠒⢲⡍⢉⣏⣀⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢿⠿⣟⠹⡜⣲⠏⣾⡌⣸⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-                                          ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠊⠀⢠⢮⠋⠧⢄⣠⡤⣖⢯⣝⣧⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⡻⢿⣿⣷⡿⢬⣗⣌⡳⠊⠁⠀⣷⡗⣿⣿⠫⣹⠻⢶⣤⣀⠀⠀⢀⠄⢂⠭⠁⠉⠡⡂⢄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-                                          ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠂⠀⡰⡯⠁⠀⢠⢯⠶⡻⠚⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⡿⢿⠀⠉⢹⣭⠿⠉⠉⠉⠘⠀⠀⢰⡾⠋⣰⣿⣿⣿⣯⢛⡶⣬⣙⠻⡗⠁⠀⡠⠒⠈⠉⠪⡌⠊⢢⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-                                          ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠋⠀⢰⡿⠁⠀⢰⣟⡏⠘⠁⣰⡿⣿⡿⣿⠿⣿⣿⡿⢿⠛⠛⠉⠉⣁⣇⡸⣀⡀⠈⠉⠀⠀⠀⠀⠘⠀⠀⠸⢇⢾⣿⣿⣿⣿⣻⡿⣷⢟⣿⢻⠁⠀⢰⣿⣶⣀⠀⠀⢹⢀⠸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-                                          ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠂⠀⣠⡟⠀⠀⣠⠿⡜⣉⣠⡾⣫⢷⣽⣴⡿⠟⣻⣿⡇⠘⡀⠀⠀⠀⠘⣿⣿⡟⠁⠀⠀⠀⠀⠀⠀⡇⠀⠀⡗⠁⠀⠻⣿⣿⡳⢛⡼⣳⢮⣔⣸⠀⠀⢿⠢⢉⠻⢷⣦⣸⡇⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-                                          ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠄⠁⢀⢴⠟⠀⢀⣰⣏⡿⠭⠿⠘⠛⠓⠛⣿⠗⣋⣽⣿⣿⡿⡀⢇⠀⠀⣈⣄⡀⢉⠀⠀⠀⠀⠀⠀⠀⢰⠀⠀⢰⠀⢀⡇⠀⣿⣟⣵⣫⢞⣕⡫⠚⢆⣧⣄⣈⣦⠀⠈⠒⢌⠛⠿⣧⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-                                          ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠃⡰⠀⡜⢁⠀⢀⡠⠄⠒⠀⠀⢀⣀⣠⢤⣤⣭⢴⢽⣿⣞⣿⣟⢷⡈⠀⠀⢨⠋⠛⠛⠛⠻⢶⡄⠀⠀⢀⠃⠀⡠⠃⢠⣾⡇⠈⡽⢺⡵⣣⢯⢮⣝⠵⠀⠀⠻⣵⡲⠃⠀⠀⠀⢈⠆⢨⣿⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-                                          ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠇⢠⠀⡞⠀⡌⠀⡌⠀⠀⠛⠛⠊⠉⠉⠀⠀⢷⣿⣿⣿⣟⣿⣻⣿⣄⠁⠀⠱⢶⠶⠤⠤⠔⠂⠀⠀⢀⡠⢪⠃⠀⠈⣽⠁⠀⡇⠀⠙⠳⣕⠳⠮⠀⠀⠀⡼⠋⠀⠀⠀⠀⢔⡪⣤⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-                                          ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡟⠀⢸⢀⠃⢀⠇⡸⠁⠀⡰⠀⠀⢀⣀⣤⣴⣶⣿⣿⣿⣿⣿⢾⣽⡟⣿⣆⠀⠐⢮⠀⠀⠀⠀⠀⣀⠔⠁⠀⡎⠀⠀⠰⣿⠀⠀⢷⣀⠀⠀⠀⠙⢦⣀⠀⠾⠁⠀⠀⠀⠀⢀⠌⣸⣿⣏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-                                          ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⡌⠀⠀⢸⠈⠀⠀⡰⢡⠆⢈⣾⡿⣟⣿⣽⣿⣿⣿⣿⡿⣯⣟⣿⣿⣿⣦⣀⠂⠀⠂⢁⣤⠞⠁⠀⠀⣸⠀⠀⠀⠈⣿⠀⠀⠈⢻⣶⣀⠀⠀⠀⢳⠑⢤⡀⠂⠀⠀⡔⢎⣰⣿⢿⣀⢳⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-                                          ⣀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⣤⣶⠆⠀⢀⠃⠄⢁⠇⡐⠈⢰⠃⢁⠐⣸⣿⣻⣽⣾⣿⣿⣿⣿⣻⣽⣷⣯⣿⢷⣟⡿⣯⣿⣿⣿⣿⠃⠁⠀⠂⠁⡇⠀⠀⠀⢠⣿⠀⠀⠀⠀⠙⠛⠿⣲⡤⢀⢫⠄⡙⠦⡀⢀⠎⣳⣿⣯⣾⣧⢀⢳⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-                                          ⣿⣿⣷⣤⣠⣤⣶⣶⣿⣿⣿⣿⣿⣿⠀⠀⣸⠐⡈⡼⠐⠠⢡⠇⢂⠰⢠⣿⢃⣹⣿⡿⣿⣟⡿⣷⡿⣽⣾⣽⣾⣿⣟⣿⣿⣾⢷⠟⢸⡀⠀⠠⢁⢸⠁⠀⠀⡐⣸⡿⡄⠀⠀⢀⠀⠀⠀⠀⠉⠛⠈⣧⢘⢰⠈⠪⣰⣿⣿⣿⣿⣿⡎⡔⣻⣿⣿⣿⣶⣶⣤⣤⣀⡀⠀⠀⠀⣠⣴⣶
-                                          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠰⣎⢰⢀⣇⡸⢀⡏⡰⡌⡄⣿⣿⣰⣿⣿⣽⣷⣯⣿⣷⣿⣿⣿⣿⣾⣿⣿⣽⣯⣿⠇⠀⠀⡀⡌⡰⡄⡾⡈⠀⠀⡄⣿⣽⣷⡈⠶⡄⣤⢀⡀⣀⢀⡀⣤⢹⡎⡴⡆⠀⠈⠿⣿⣿⣿⣿⣿⣤⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣾⣿⣿⣿
-                                          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠠⣏⠸⡘⢨⠁⠼⣁⠹⢠⠙⣿⣯⣿⣿⣿⢿⣽⣿⢿⣿⣿⣟⣿⣿⣿⣿⣿⡿⡿⠻⡄⠘⡠⢡⠘⡡⢣⡇⠅⠀⠀⡜⠹⣿⣻⣿⣤⠙⡄⢋⠥⡉⠬⡙⠤⢻⣿⡅⣻⠀⠀⠀⠈⠙⠣⢟⣹⡜⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-                                          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠁⠀⠐⠤⣃⠜⣠⢉⡒⣄⠣⢎⣹⣿⣿⣿⣿⢯⣿⣟⣿⡿⣿⣻⣾⣿⣿⣿⣿⣿⡟⠁⡄⢿⣦⡑⢢⣱⣼⡿⡘⠄⠀⠀⡈⠒⣌⠻⢷⣿⣿⣾⣬⣦⠙⢦⡙⣌⢣⣿⣧⢃⡆⠀⠀⠀⠀⠀⠀⠈⠛⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-                                          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⢧⡀⢈⢲⢡⡚⢤⢣⡜⣤⢛⢦⣿⣿⣿⣻⣟⣿⢿⣯⣿⣿⣿⢿⡿⠛⠛⠚⠻⢟⢀⢣⡐⢩⠻⣿⣿⡿⢋⠴⡡⣆⠵⠚⠒⠛⠢⠵⣦⠬⢭⠭⡽⣤⠯⣖⢳⡚⢯⣿⣿⣯⣱⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-                                          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠁⠀⠉⠀⣧⢣⡝⢎⠶⣱⠮⣽⣾⣿⣿⣿⣽⣾⣿⣿⣻⣯⣷⢟⡩⢔⠢⡄⢤⡀⢠⠙⣢⣙⠦⣙⠬⣒⢌⣣⠮⠋⠁⢠⡐⢆⡎⡵⢋⡴⢋⢮⡱⢳⣌⠳⣌⢧⣙⢦⣽⣿⣿⡼⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠙⠛⣿⣿⣿⣿⣿⣿⣿
-                                          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⢹⡇⡞⣭⢞⣵⣿⣿⣯⣿⣿⣿⣿⣿⣿⣿⣿⣿⣣⣏⣝⣮⠱⣎⠳⣜⢣⡓⢦⣍⠻⣍⣳⡞⠊⢁⡀⡴⣸⠱⣎⢧⡹⣍⢯⡹⢏⢯⣙⣧⣞⣷⣾⣶⣿⣾⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿
+ if you try to use my extension, it will show you the temperature in Kelvin. while converting it to Celcius is easy, I kept it as kelvin since the task didn't mention the temperature scale we should use.
