@@ -18,3 +18,5 @@ How will you contribute back to the club?
  3. teaching my juniors. I love teaching, even if I'm horrible at it. especially maths. I make a lot of connections which I take for granted and it's only when my sister asks me a doubt do I realise something I consider intuitive is not necassarily as simple as for someone else. of course, I have friends who I consider extremly gifted who'll have knowledge i can't understand one bit, thanks to my monkey brain. but it's beacause of both these experiences that I know sometimes, learning something is just waiting for someone to connect two things, completly different in your mind and knot them beautufully, giving a depth to both of them. I want to do that, just once. 
 
 Do include any thoughts or feedback you have on the praveshan process as well - none particularly polarising so far, I'll update it here if there are any changes
+
+ah, alse there are two tasks here that should be called task-05(imgaginedragons) and task-06(myvr) that aren't properly named. I currently dont have the the time to rename them since I have to go for amma's duties shortly. sorry for any inconvenience caused my incompetence. 
