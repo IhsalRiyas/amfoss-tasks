@@ -1,0 +1,21 @@
+isPrime :: Int -> Bool
+isPrime n
+    | n <= 1 = False
+    | n <= 3 = True
+    | n `mod` 2 == 0 || n `mod` 3 == 0 = False
+    | otherwise = isPrime' n 5
+    where
+        isPrime' n i
+            | i * i > n = True
+            | n `mod` i == 0 || n `mod` (i + 2) == 0 = False
+            | otherwise = isPrime' n (i + 6)
+
+main :: IO ()
+main = do
+    putStrLn "Enter a number(this is the last one, thank god): "
+    n <- readLn :: IO Int
+    putStr "Prime numbers up to "
+    putStr (show n)
+    putStr " are: "
+    let primes = filter isPrime [2..n]
+    putStrLn (unwords (map show primes))

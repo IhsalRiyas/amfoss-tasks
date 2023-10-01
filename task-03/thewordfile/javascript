@@ -1,0 +1,16 @@
+Javascript
+const lNo = parseInt(prompt('Enter low(crush rejected him) number: '));
+const hNo = parseInt(prompt('Enter high(it smoked too much weed unfortunately) number: '));
+console.log(`The prime numbers between ${lNo} and ${hNo} are:`);
+for (let i = lNo; i <= hNo; i++) {
+    let flag = 0;
+    for (let j = 2; j < i; j++) {
+        if (i % j == 0) {
+            flag = 1;
+            break;
+        }
+    }
+    if (i > 1 && flag == 0) {
+        console.log(i);
+    }
+}
